@@ -2,9 +2,9 @@
 
 ## Intro
 
-Greetings! Here is where you will find a portfolio of my work on data analysis, including Excel, Tableau, SQL, and Python.
+Greetings! Here is where you will find a portfolio of my work on data analysis, including use of Excel, Tableau, SQL, and Python.
 
-These projects are sample projects from CareerFoundry. Some contain fictional datasets, while others use modified real-world data that is or has been publicly available.
+Some contain fictional datasets, while others use modified real-world data that is or has been publicly available.
 
 ## [GameCo video game sales](https://github.com/Nes112/GameCo)
 
